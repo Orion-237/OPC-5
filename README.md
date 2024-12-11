@@ -1,8 +1,8 @@
-# Gestion de Prise de Rendez-Vous entre Patients et Médecins 🏥💻
+# Gestion de Prise de Rendez-Vous chez DOCTA 🏥💻
 
 ## Contexte 🌟
 
-Vous êtes chargé de développer une application console en Kotlin permettant de gérer la prise de rendez-vous entre des médecins et des patients. 
+Vous êtes chargé de développer une application console en Kotlin permettant de gérer la prise de rendez-vous entre des médecins et des patients chez DOCTA. 
 L'objectif principal est de permettre :
 - 👨‍⚕️ Aux médecins de définir leurs jours et heures de disponibilité.
 - 👩‍⚕️ Aux patients de consulter ces disponibilités et réserver un créneau horaire.
