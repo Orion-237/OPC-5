@@ -1,3 +1,5 @@
+package entities
+
 import kotlin.random.Random
 
 class MedecinFactory {

@@ -1,3 +1,5 @@
+package entities
+
 import java.time.LocalTime
 import java.time.format.DateTimeFormatter
 import java.time.format.DateTimeParseException
@@ -5,7 +7,6 @@ import java.time.format.DateTimeParseException
 class Medecin(private val id: Int, private val nom: String, private val specialite: String) {
 
     private val disponibilites = mutableListOf<RendezVous>()
-        get() = field
 
 
     fun ajouterDisponibilite(jour: String, heure: String) {

@@ -36,7 +36,7 @@ L'objectif principal est de permettre :
 ## Consignes 📜
 
 1. **Structure du projet** 🏗️ :
-   - Utilisez des classes pour représenter les entités principales (`Medecin`, `RendezVous`).
+   - Utilisez des classes pour représenter les entités principales (`entities.Medecin`, `entities.RendezVous`).
    - Organisez votre code en fonctions pour chaque action (exemple : ajouter des disponibilités, afficher les rendez-vous, etc.).
 
 2. **Interface utilisateur** 🎨 :
