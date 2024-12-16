@@ -1,7 +1,7 @@
 package ui
 
 import entities.Medecin
-import entities.MedecinFactory
+import utils.MedecinFactory
 
 fun start(){
     val medecinFactory = MedecinFactory()

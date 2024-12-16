@@ -1,5 +1,6 @@
-package entities
+package utils
 
+import entities.Medecin
 import kotlin.random.Random
 
 class MedecinFactory {
